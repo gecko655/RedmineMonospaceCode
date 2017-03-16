@@ -1,0 +1,15 @@
+{
+  "name": "Redmine Monospace Code",
+  "short_name": "RMC",
+  "description": "Show Redmine's <pre>code</pre> in monospace",
+  "manifest_version": 2,
+
+  "version": "1.0.0.0",
+  "permissions": [
+  ],
+  "content_scripts": [ {
+    "matches": ["*://*/*"],
+    "include_globs": ["*redmine*"],
+    "css": ["main.css"]
+  } ]
+}
