@@ -1,5 +1,5 @@
 # RedmineMonospaceCode
 
-Redmineの `<pre></pre>` に囲まれている部分を等幅フォントにするプラグイン
+Redmine3.1.0以前の `<pre></pre>` に囲まれている部分を等幅フォントにするChromeプラグイン
 
-A plugin to show `<pre></pre>`-wrapped contents in Redmine in monospace font
+A Chrome plugin to show `<pre></pre>`-wrapped contents in Redmine ~3.1.0 in monospace font

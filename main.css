@@ -1,4 +1,1 @@
-#main pre {
-    font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
-}
-
+pre, code {font-family: Consolas, Menlo, "Liberation Mono", Courier, monospace;}
