@@ -4,7 +4,7 @@
   "description": "Show Redmine's <pre>code</pre> in monospace",
   "manifest_version": 2,
 
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "permissions": [
   ],
   "content_scripts": [ {
